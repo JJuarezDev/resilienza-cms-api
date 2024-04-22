@@ -1,0 +1,5 @@
+# Express.js recommended ignores
+node_modules/
+npm-debug.log
+.env
+package-lock.json
